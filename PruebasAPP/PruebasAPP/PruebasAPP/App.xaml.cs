@@ -14,7 +14,19 @@ namespace PruebasAPP
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+
+            if (App.Current.Properties.ContainsKey("IsLoggedIn"))
+            {
+                if ((bool)App.Current.Properties["IsLoggedIn"])
+                {
+                    MainPage = new AppShell();
+                }
+                else
+                {
+                    MainPage = new LoginPage();
+                }
+            }
+
         }
 
         protected override void OnStart()
