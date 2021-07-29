@@ -47,6 +47,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microcharts.Forms": {
+              "target": "Package",
+              "version": "[0.9.5.9, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.5.3.2, )"
@@ -104,6 +108,10 @@
             "Acr.UserDialogs": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microcharts.Forms": {
+              "target": "Package",
+              "version": "[0.9.5.9, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
