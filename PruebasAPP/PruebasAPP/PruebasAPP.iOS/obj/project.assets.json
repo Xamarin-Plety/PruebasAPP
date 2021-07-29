@@ -295,18 +295,6 @@
           "lib/Xamarin.iOS10/FFImageLoading.Forms.dll": {}
         }
       },
-      "Xamarin.FFImageLoading.Transformations/2.4.11.982": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.FFImageLoading": "2.4.11.982"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll": {}
-        }
-      },
       "Xamarin.Forms/4.8.0.1451": {
         "type": "package",
         "compile": {
@@ -441,7 +429,6 @@
           "Xam.Plugin.TabView": "1.1.1",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.FFImageLoading.Forms": "2.4.11.982",
-          "Xamarin.FFImageLoading.Transformations": "2.4.11.982",
           "Xamarin.Forms": "4.8.0.1451"
         },
         "compile": {
@@ -714,18 +701,6 @@
           "lib/Xamarin.iOS10/FFImageLoading.Forms.dll": {}
         }
       },
-      "Xamarin.FFImageLoading.Transformations/2.4.11.982": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.FFImageLoading": "2.4.11.982"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll": {}
-        }
-      },
       "Xamarin.Forms/4.8.0.1451": {
         "type": "package",
         "compile": {
@@ -860,7 +835,6 @@
           "Xam.Plugin.TabView": "1.1.1",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.FFImageLoading.Forms": "2.4.11.982",
-          "Xamarin.FFImageLoading.Transformations": "2.4.11.982",
           "Xamarin.Forms": "4.8.0.1451"
         },
         "compile": {
@@ -1136,18 +1110,6 @@
           "lib/Xamarin.iOS10/FFImageLoading.Forms.dll": {}
         }
       },
-      "Xamarin.FFImageLoading.Transformations/2.4.11.982": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.FFImageLoading": "2.4.11.982"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll": {}
-        }
-      },
       "Xamarin.Forms/4.8.0.1451": {
         "type": "package",
         "compile": {
@@ -1282,7 +1244,6 @@
           "Xam.Plugin.TabView": "1.1.1",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.FFImageLoading.Forms": "2.4.11.982",
-          "Xamarin.FFImageLoading.Transformations": "2.4.11.982",
           "Xamarin.Forms": "4.8.0.1451"
         },
         "compile": {
@@ -1558,18 +1519,6 @@
           "lib/Xamarin.iOS10/FFImageLoading.Forms.dll": {}
         }
       },
-      "Xamarin.FFImageLoading.Transformations/2.4.11.982": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.FFImageLoading": "2.4.11.982"
-        },
-        "compile": {
-          "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll": {}
-        },
-        "runtime": {
-          "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll": {}
-        }
-      },
       "Xamarin.Forms/4.8.0.1451": {
         "type": "package",
         "compile": {
@@ -1704,7 +1653,6 @@
           "Xam.Plugin.TabView": "1.1.1",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.FFImageLoading.Forms": "2.4.11.982",
-          "Xamarin.FFImageLoading.Transformations": "2.4.11.982",
           "Xamarin.Forms": "4.8.0.1451"
         },
         "compile": {
@@ -2445,42 +2393,6 @@
         "xamarin.ffimageloading.forms.nuspec"
       ]
     },
-    "Xamarin.FFImageLoading.Transformations/2.4.11.982": {
-      "sha512": "cNG6zhiEBTENAGgIc9lY54YMJ0tg2dJ9+tj8tYgrOEQT8gxlj3OUzzNWZgaQWpcx28y5iIt/qM+Bd6jUwtAn1Q==",
-      "type": "package",
-      "path": "xamarin.ffimageloading.transformations/2.4.11.982",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/MonoAndroid10/FFImageLoading.Transformations.dll",
-        "lib/MonoAndroid10/FFImageLoading.Transformations.pdb",
-        "lib/MonoAndroid10/FFImageLoading.Transformations.xml",
-        "lib/Xamarin.Mac20/FFImageLoading.Transformations.dll",
-        "lib/Xamarin.Mac20/FFImageLoading.Transformations.pdb",
-        "lib/Xamarin.Mac20/FFImageLoading.Transformations.xml",
-        "lib/Xamarin.iOS10/FFImageLoading.Transformations.dll",
-        "lib/Xamarin.iOS10/FFImageLoading.Transformations.pdb",
-        "lib/Xamarin.iOS10/FFImageLoading.Transformations.xml",
-        "lib/netstandard1.0/FFImageLoading.Transformations.dll",
-        "lib/netstandard1.0/FFImageLoading.Transformations.xml",
-        "lib/portable-win+net45+wp80+win81+wpa81/FFImageLoading.Transformations.dll",
-        "lib/portable-win+net45+wp80+win81+wpa81/FFImageLoading.Transformations.xml",
-        "lib/tizen40/FFImageLoading.Transformations.dll",
-        "lib/tizen40/FFImageLoading.Transformations.pdb",
-        "lib/tizen40/FFImageLoading.Transformations.xml",
-        "lib/uap/FFImageLoading.Transformations.dll",
-        "lib/uap/FFImageLoading.Transformations.pdb",
-        "lib/uap/FFImageLoading.Transformations.xml",
-        "lib/win81/FFImageLoading.Transformations.dll",
-        "lib/win81/FFImageLoading.Transformations.pdb",
-        "lib/win81/FFImageLoading.Transformations.xml",
-        "lib/wpa81/FFImageLoading.Transformations.dll",
-        "lib/wpa81/FFImageLoading.Transformations.pdb",
-        "lib/wpa81/FFImageLoading.Transformations.xml",
-        "xamarin.ffimageloading.transformations.2.4.11.982.nupkg.sha512",
-        "xamarin.ffimageloading.transformations.nuspec"
-      ]
-    },
     "Xamarin.Forms/4.8.0.1451": {
       "sha512": "3RUzBpcaBxOjufLLqJnuZRGLhzAbVyfe/Pyp0AFY/H1MkCHYxXIRzgB8h6yC9NTs39NLK2SgGiaMbvC4TJ/zFA==",
       "type": "package",
@@ -2814,8 +2726,6 @@
       "PruebasAPP >= 1.0.0",
       "Xam.Plugin.TabView >= 1.1.1",
       "Xamarin.Essentials >= 1.5.3.2",
-      "Xamarin.FFImageLoading.Forms >= 2.4.11.982",
-      "Xamarin.FFImageLoading.Transformations >= 2.4.11.982",
       "Xamarin.Forms >= 4.8.0.1451"
     ]
   },
@@ -2893,14 +2803,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.5.3.2, )"
-          },
-          "Xamarin.FFImageLoading.Forms": {
-            "target": "Package",
-            "version": "[2.4.11.982, )"
-          },
-          "Xamarin.FFImageLoading.Transformations": {
-            "target": "Package",
-            "version": "[2.4.11.982, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
