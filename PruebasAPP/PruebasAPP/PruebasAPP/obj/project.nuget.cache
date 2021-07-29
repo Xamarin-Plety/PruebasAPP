@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bYfRGSSQhLUgBGKIPyGPx2aD9UaUMqxki+1W8R3WJG8QGzX8EGoEHsLsuR8caqDoMI4sInJWScR+guqMYRoQIA==",
+  "dgSpecHash": "0mrsgbGEEN3amnSAZLo5SMFK0SsHBoHEhAUCChsGFRna6Fpx0+pZ+/w3Gel719+lMu1J/GDfQR6sgUhvpJcQQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\desarrollo3\\source\\repos\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj",
+  "projectFilePath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\acr.userdialogs\\7.0.0\\acr.userdialogs.7.0.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

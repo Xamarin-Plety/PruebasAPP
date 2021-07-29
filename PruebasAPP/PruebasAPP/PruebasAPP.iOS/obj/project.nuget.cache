@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wNqMGylAU3F4KnTPdeocPdLO42ICcV17l/X/fZhhAjuXi5g3WSewhiB3a+8DgS5eJoMIxOVVLqU1Qm9rFB+Lig==",
+  "dgSpecHash": "aXByBgnKTGTwpTQO5R+bn/HiXZJd2pM8MEEbSf4yhE0d7+eP5tmX62Az9EWc6yPw7ASR8UBXLsDEgsHYU2/giA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\desarrollo3\\source\\repos\\PruebasAPP\\PruebasAPP\\PruebasAPP.iOS\\PruebasAPP.iOS.csproj",
+  "projectFilePath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.iOS\\PruebasAPP.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\acr.userdialogs\\7.0.0\\acr.userdialogs.7.0.0.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\btprogresshud\\1.2.0.6\\btprogresshud.1.2.0.6.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\netstandard.library\\2.0.1\\netstandard.library.2.0.1.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desarrollo3\\source\\repos\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj": {}
+    "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desarrollo3\\source\\repos\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj": {
+    "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desarrollo3\\source\\repos\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj",
+        "projectUniqueName": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj",
         "projectName": "PruebasAPP",
-        "projectPath": "C:\\Users\\desarrollo3\\source\\repos\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj",
+        "projectPath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj",
         "packagesPath": "C:\\Users\\desarrollo3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desarrollo3\\source\\repos\\PruebasAPP\\PruebasAPP\\PruebasAPP\\obj\\",
+        "outputPath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -46,6 +46,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
