@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Kiu+QNObx16lNaWho7hfJirkA2igEOxXV02bU0IsuV5lZRR54inBiDNoLn32Trfm4B/nAH79Bnf/N7tqkQqYPQ==",
+  "dgSpecHash": "AvlkpOYFimOFZTt0zPKs9gx6uHZ5Vy2urvgJwb2aKcDrwoQ9FhQF5nJGIuW2DXqZx8dcUb8YvxZyg7RtgSaNaw==",
   "success": true,
   "projectFilePath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.Android\\PruebasAPP.Android.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,7 @@
     "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.ffimageloading\\2.4.11.982\\xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.ffimageloading.forms\\2.4.11.982\\xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.ffimageloading.transformations\\2.4.11.982\\xamarin.ffimageloading.transformations.2.4.11.982.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
