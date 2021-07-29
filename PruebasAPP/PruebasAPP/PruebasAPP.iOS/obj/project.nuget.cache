@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+584lXgEgpAxoATjXGW4l6C4KuwOyj8FY2IIM/hgJTYymUs8XzMq9DdDPNVGNGHhjjyYpythhTbfq68Xl/ttGw==",
+  "dgSpecHash": "I+Ad03qQon0tpzJoAnGXjfUcL/MHBPog+0wiAs+mGgLpVyktUbvk3lTEr7qf/lh+3hnnTW8q9wlEEH23wbpoAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.iOS\\PruebasAPP.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desarrollo3\\.nuget\\packages\\acr.userdialogs\\7.0.0\\acr.userdialogs.7.0.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\btprogresshud\\1.2.0.6\\btprogresshud.1.2.0.6.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\carouselview.formsplugin\\5.2.0\\carouselview.formsplugin.5.2.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microcharts\\0.9.5.9\\microcharts.0.9.5.9.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microcharts.forms\\0.9.5.9\\microcharts.forms.0.9.5.9.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter\\2.0.0\\microsoft.appcenter.2.0.0.nupkg.sha512",
@@ -18,7 +19,12 @@
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\webp.touch\\1.0.8\\webp.touch.1.0.8.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\xam.plugin.tabview\\1.1.1\\xam.plugin.tabview.1.1.1.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.ffimageloading\\2.4.11.982\\xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.ffimageloading.forms\\2.4.11.982\\xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\xamarin.ffimageloading.transformations\\2.4.11.982\\xamarin.ffimageloading.transformations.2.4.11.982.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
