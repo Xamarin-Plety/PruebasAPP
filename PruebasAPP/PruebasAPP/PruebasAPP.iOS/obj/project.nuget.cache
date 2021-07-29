@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rK016ipJ6lTy0WkoCshc62p8Qsxf5PRQu7LNJlltnx/zpSlCFwH+sUcNLAw0cwRa86oXosgExRFD8OW+3BqMSA==",
+  "dgSpecHash": "IX5b1vNj8w7cvt0NMRqpKXfOBOXo3zjh6FtoAMyf7tMq3C/ULEoWH15jM8Dd+7FmnxkFXorzIO55a3+LeVCUzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.iOS\\PruebasAPP.iOS.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\desarrollo3\\.nuget\\packages\\btprogresshud\\1.2.0.6\\btprogresshud.1.2.0.6.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microcharts\\0.9.5.9\\microcharts.0.9.5.9.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microcharts.forms\\0.9.5.9\\microcharts.forms.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter\\2.0.0\\microsoft.appcenter.2.0.0.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter.analytics\\2.0.0\\microsoft.appcenter.analytics.2.0.0.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter.crashes\\2.0.0\\microsoft.appcenter.crashes.2.0.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\netstandard.library\\2.0.1\\netstandard.library.2.0.1.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",

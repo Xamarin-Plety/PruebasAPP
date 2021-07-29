@@ -54,6 +54,18 @@
               "target": "Package",
               "version": "[0.9.5.9, )"
             },
+            "Microsoft.AppCenter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

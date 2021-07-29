@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "X2CFH6w+raWO3FEn1uog6fP5VdFnIjX6yBnqi//3U3xsQkPRIj/a6knzCF52ra4jW0B/lk4qniMpi2mC7NcH7g==",
+  "dgSpecHash": "r60McOA0jkbroeVamtRV2SIDfcAkl1cY3v/WTzGJuJwzLgLYQhevPLMOFI1GgqUjXJipORx3+giJXmhjHO39fg==",
   "success": true,
   "projectFilePath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desarrollo3\\.nuget\\packages\\acr.userdialogs\\7.0.0\\acr.userdialogs.7.0.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microcharts\\0.9.5.9\\microcharts.0.9.5.9.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microcharts.forms\\0.9.5.9\\microcharts.forms.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter\\2.0.0\\microsoft.appcenter.2.0.0.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter.analytics\\2.0.0\\microsoft.appcenter.analytics.2.0.0.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter.crashes\\2.0.0\\microsoft.appcenter.crashes.2.0.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
