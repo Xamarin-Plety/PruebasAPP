@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r60McOA0jkbroeVamtRV2SIDfcAkl1cY3v/WTzGJuJwzLgLYQhevPLMOFI1GgqUjXJipORx3+giJXmhjHO39fg==",
+  "dgSpecHash": "Sg/rmD0vw7dQDBjU7sCuPQnAtsgQHj6IdPBRWbL5wbZzwQU31K6+qshjwQC6rtYCQ7h1G9j+O6RXJVM6am4iNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter.crashes\\2.0.0\\microsoft.appcenter.crashes.2.0.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",

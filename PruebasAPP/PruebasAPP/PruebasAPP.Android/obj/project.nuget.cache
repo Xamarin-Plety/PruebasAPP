@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DLYEILqGodgC2QI3dJQL7OE7ioe+wlVQL7vhXpgc1p8ZOW2yjMpkQSh/BAimxNuOJ3zoMjgBfpm4mkwlz8DwXQ==",
+  "dgSpecHash": "femUB6UKmTm/pOs0S2aol8yHCGyNAycUd9tKaCSt4HotoZBhGpoBDBgzut1tnuCRHb0lINL2TZ2fGXq2w4Zfxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\desarrollo3\\Documents\\GitHub\\PruebasAPP\\PruebasAPP\\PruebasAPP\\PruebasAPP.Android\\PruebasAPP.Android.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.appcenter.crashes\\2.0.0\\microsoft.appcenter.crashes.2.0.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\netstandard.library\\2.0.1\\netstandard.library.2.0.1.nupkg.sha512",
+    "C:\\Users\\desarrollo3\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
     "C:\\Users\\desarrollo3\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
